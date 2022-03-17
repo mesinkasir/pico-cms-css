@@ -4,7 +4,9 @@ Axcora pico website + pico cms bundle
 
 Test Drive Demo 🚀 : [https://axcora.my.id/pico/demo/](https://axcora.my.id/pico/demo/)
 
-Documentation 💻 : [https://axcora.my.id/pico/](https://axcora.my.id/pico/)
+Documentation 💻 : [https://www.hockeycomputindo.com/2022/03/axcorapico-new-cms-seo-markdown.html](https://www.hockeycomputindo.com/2022/03/axcorapico-new-cms-seo-markdown.html)
+
+Home page : [https://axcora.my.id/pico/](https://axcora.my.id/pico/) 
 
 -------------------
 
@@ -36,7 +38,9 @@ work :
 
 Test Drive Demo 🚀 : https://axcora.my.id/pico/demo/
 
-Documentation 💻 : https://axcora.my.id/pico/
+Documentation 💻 : [https://www.hockeycomputindo.com/2022/03/axcorapico-new-cms-seo-markdown.html](https://www.hockeycomputindo.com/2022/03/axcorapico-new-cms-seo-markdown.html)
+
+Home page : [https://axcora.my.id/pico/](https://axcora.my.id/pico/) 
 
 ---------------------------------
 Buy me a coffee ☕️ ❤️ ✌🏻
