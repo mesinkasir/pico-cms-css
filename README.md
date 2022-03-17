@@ -30,6 +30,8 @@ work :
 + for update content and delete article visit on content folder just create .md file for new article.
 + for publish article on menu navbar page use hidden: false or check content example.
 + change home page design just open _meta.md and edit with you needed.
++ login on backend just visit yourweb.com/pico_edit default password : axcora
++ change password login - need to change plugins/pico_edit/config.php and change password use hash password or read config.php file for details
 + done
 
 Test Drive Demo 🚀 : https://axcora.my.id/pico/demo/
