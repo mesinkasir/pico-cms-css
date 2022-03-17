@@ -32,6 +32,9 @@ work :
 + change home page design just open _meta.md and edit with you needed.
 + done
 
+Test Drive Demo 🚀 : https://axcora.my.id/pico/demo/
+
+Documentation 💻 : https://axcora.my.id/pico/
 
 ---------------------------------
 Buy me a coffee ☕️ ❤️ ✌🏻
